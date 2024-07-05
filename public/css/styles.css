@@ -1,0 +1,13 @@
+body {
+    padding-top: 20px;
+  }
+  
+  .chart-container {
+    position: relative;
+    height: 400px; 
+  }
+
+  .large-chart-container {
+    position: relative;
+    height: 600px; 
+  }
